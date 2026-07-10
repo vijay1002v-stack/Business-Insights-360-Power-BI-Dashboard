@@ -83,20 +83,23 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ### Data Model Architecture
 ![Data Model](DataModelling.png)
 
+### Home View 
+![Home View](HomePage.png)
+
 ### Finance View - P&L Statement
-![Finance View](images/02_finance_view.png)
+![Finance View](FinanceView.png)
 
 ### Sales View - Customer Performance
-![Sales View](images/03_sales_view.png)
+![Sales View](SalesView.png)
 
 ### Marketing View - Product Analysis
-![Marketing View](images/04_marketing_view.png)
+![Marketing View](MarketingView.png)
 
 ### Supply Chain View - Forecast Accuracy
 ![Supply Chain View](images/05_supply_chain_view.png)
 
 ### Executive View - KPIs & Market Share
-![Executive View](images/01_executive_view.png)
+![Executive View](Executiveview.png)
 ---
 
 ## 🎓 Skills Highlighted
