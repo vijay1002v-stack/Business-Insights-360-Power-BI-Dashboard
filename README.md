@@ -5,7 +5,6 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ## 🎯 Quick Overview
 
 **Tech Stack:** Power BI | MySQL | DAX | Star & Snowflake Schema  
-**Key Metrics:** ₹64.58M Revenue | 86.63% Forecast Accuracy | 41.19% GM%
 ---
 
 ## 📊 Dashboard Views
