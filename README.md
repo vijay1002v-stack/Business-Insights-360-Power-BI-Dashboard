@@ -78,16 +78,25 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 - **Market Analysis:** Competitive market share tracking, regional performance, customer profitability
 
 ---
-
 ## 📊 Screenshots
 
-See `Dashboard_Screenshots/` for:
-- Executive View (KPIs, revenue breakdown, market share)
-- Finance View (P&L statement, trend analysis)
-- Sales View (Customer performance, scatter analysis)
-- Marketing View (Product performance, regional breakdown)
-- Supply Chain View (Forecast accuracy, risk assessment)
+### Data Model Architecture
+![Data Model](images/06_data_model.png)
 
+### Finance View - P&L Statement
+![Finance View](images/02_finance_view.png)
+
+### Sales View - Customer Performance
+![Sales View](images/03_sales_view.png)
+
+### Marketing View - Product Analysis
+![Marketing View](images/04_marketing_view.png)
+
+### Supply Chain View - Forecast Accuracy
+![Supply Chain View](images/05_supply_chain_view.png)
+
+### Executive View - KPIs & Market Share
+![Executive View](images/01_executive_view.png)
 ---
 
 ## 🎓 Skills Highlighted
