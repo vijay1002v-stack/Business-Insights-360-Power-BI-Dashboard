@@ -5,6 +5,8 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ## 🎯 Quick Overview
 
 **Tech Stack:** Power BI | MySQL | DAX | Star & Snowflake Schema  
+**Key Metrics:** Net Sales | Gross Margin | Net Profit %| Forecast Accuracy 
+
 ---
 
 
@@ -100,17 +102,13 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ### Executive View - KPIs & Market Share
 ![Executive View](Executiveview.png)
 ---
-
 ## 🎓 Skills Highlighted
 
-✅ Advanced DAX (40+ Measures)
-✅ Database Design (Star Schema)  
-✅ Data Modeling & Transformation  
-✅ ETL 
-✅ Interactive Dashboard Design  
-✅ Business Intelligence & Analytics  
-✅ Financial & Supply Chain Analytics  
-✅ Performance Optimization 
-
-
---- 
+- ✅ Advanced DAX
+- ✅ Database Design (Star Schema)
+- ✅ Data Modeling & Transformation
+- ✅ ETL
+- ✅ Interactive Dashboard Design
+- ✅ Business Intelligence & Analytics
+- ✅ Financial & Supply Chain Analytics
+- ✅ Performance Optimization
