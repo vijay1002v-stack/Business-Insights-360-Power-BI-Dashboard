@@ -6,7 +6,6 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 
 **Tech Stack:** Power BI | MySQL | DAX | Star & Snowflake Schema  
 **Key Metrics:** ₹64.58M Revenue | 86.63% Forecast Accuracy | 41.19% GM%
-
 ---
 
 ## 📊 Dashboard Views
@@ -14,7 +13,7 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 | View | Focus | Key Features |
 |------|-------|--------------|
 | **Finance** | P&L Analysis | Net Sales, COGS, Gross Margin, Operational Expense, Net Profit tracking with YoY comparisons |
-| **Sales** | Customer Performance | Customer matrix, scatter plot with benchmarking, segment-wise product analysis |
+| **Sales** | Customer Performance | Customer matrix, a scatter plot of net sales and gross margin per customer, segment-wise product analysis |
 | **Marketing** | Product & Regional Analysis | Product performance matrix, waterfall profit analysis, regional breakdown |
 | **Supply Chain** | Forecast Accuracy & Risk | Monthly forecast trends, net error tracking, inventory risk assessment (OOS/EI status) |
 | **Executive** | Consolidated KPIs | Revenue by division/channel, top 5 customers/products, market share trends, sub-zone performance |
@@ -73,8 +72,8 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ## 💡 Domain Knowledge
 
 - **Financial Reporting:** P&L statement construction, cost analysis, margin decomposition
-- **Supply Chain Analytics:** Forecast accuracy modeling, inventory risk assessment, demand planni
-- **Sales Analytics:** Customer segmentation, performance matrix analysis, channel performance
+- **Supply Chain Analytics:** Forecast accuracy modeling, inventory risk assessment, demand planning
+- **Sales Analytics:** Customer segmentation, performance matrix analysis, channel wise performance
 - **Market Analysis:** Competitive market share tracking, regional performance, customer profitability
 
 ---
@@ -96,7 +95,7 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ![Marketing View](MarketingView.png)
 
 ### Supply Chain View - Forecast Accuracy
-![Supply Chain View](images/05_supply_chain_view.png)
+![Supply Chain View](SupplyChainView.png)
 
 ### Executive View - KPIs & Market Share
 ![Executive View](Executiveview.png)
@@ -104,10 +103,10 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 
 ## 🎓 Skills Highlighted
 
-✅ Advanced DAX (20+ measures)  
+✅ Advanced DAX 
 ✅ Database Design (Star Schema)  
 ✅ Data Modeling & Transformation  
-✅ ETL & Incremental Refresh  
+✅ ETL 
 ✅ Interactive Dashboard Design  
 ✅ Business Intelligence & Analytics  
 ✅ Financial & Supply Chain Analytics  
