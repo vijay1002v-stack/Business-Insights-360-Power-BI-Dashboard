@@ -103,7 +103,7 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 
 ## 🎓 Skills Highlighted
 
-✅ Advanced DAX 
+✅ Advanced DAX (40+ Measures)
 ✅ Database Design (Star Schema)  
 ✅ Data Modeling & Transformation  
 ✅ ETL 
