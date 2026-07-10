@@ -81,7 +81,7 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ## 📊 Screenshots
 
 ### Data Model Architecture
-![Data Model](images/06_data_model.png)
+![Data Model](DataModelling.png)
 
 ### Finance View - P&L Statement
 ![Finance View](images/02_finance_view.png)
