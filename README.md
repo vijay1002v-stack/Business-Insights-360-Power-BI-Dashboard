@@ -5,6 +5,7 @@ An enterprise analytics solution showcasing multi-dimensional BI capabilities ac
 ## 🎯 Quick Overview
 
 **Tech Stack:** Power BI | MySQL | DAX | Star & Snowflake Schema  
+
 ---
 
 ## 📊 Dashboard Views
